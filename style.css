@@ -136,7 +136,7 @@ nav h1 span{
   display: flex;
   align-items: center;
   min-height:100vh;
-  background: linear-gradient(to top, rgb(255 255 255 / 10%) 92%, rgba(255, 255, 255, 1) 9%), no-repeat top / cover url(/image/bg.jpg);
+  background: linear-gradient(to top, rgb(255 255 255 / 10%) 92%, rgba(255, 255, 255, 1) 9%), no-repeat top / cover url(./image/bg.jpg);
 }
 
 .home .subtitle{
